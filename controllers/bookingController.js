@@ -33,7 +33,7 @@ exports.getCheckoutSession = async (req, res, next) => {
               amount: 100,
               currency: 'inr',
               quantity: 1
-            }
+            }  
           ]
         });
       
